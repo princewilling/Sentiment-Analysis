@@ -7,7 +7,7 @@
 ___
 The aim of this project is to build a machine leraning classifier web app  that can classify documents based on their polarity: the attitude of the
 writer. 
-This application provides the user with an interface to input thier coments and see the result (positive or negatve) and the probabilty of the classifier accuracy with a validity button to help update the classifier.
+This application provides the user with an interface to input thier comments and see the result (positive or negatve) and the probabilty of the classifier accuracy with a validity button to help update the classifier.
 
 ## **✔️ Libraries and tools 🛠️**
 ___
@@ -33,6 +33,6 @@ ___
     * Pandas 
     * Scikit-learn
   
- This project was completed and deployed on streamlit-cloud
+ ## **This project was completed and deployed on streamlit-cloud**
   
   **Link to Movie Review Classifier web app: https://share.streamlit.io/princewilling/sentiment-analysis/main/app.py
