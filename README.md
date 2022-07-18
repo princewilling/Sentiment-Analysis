@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-![record](https://user-images.githubusercontent.com/97766398/150579762-5fcd3f90-078e-45c7-b2f4-23a9c0089922.gif)
+![record](https://github.com/princewilling/Sentiment-Analysis/blob/main/record.gif)
 
 
 ## ✔️ **Description** 📑
